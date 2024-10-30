@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-25 21:00+0330\n"
+"PO-Revision-Date: 2011-01-25 21:01+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\Documents and Settings\\Windows Xp\\Desktop\\New Folder\n"
+"X-Poedit-SearchPath-0: C:\\Documents and Settings\\Windows Xp\\Desktop\\New Folder\n"
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Pagerank : "
+msgstr "پیج رنک : "
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Alexa Traffic : "
+msgstr "ترافیک الکسا : "
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Added."
+msgstr "اضافه شد."
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Sorry, can't be added."
+msgstr "متأسفانه امکان اضافه شدن وجود ندارد."
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Please add our url first<br />"
+msgstr "لطفا در ابتدا لینک ما را اضافه کنید<br />"
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Name field is empty"
+msgstr "نام را وارد نکرده اید"
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "URL is not valid."
+msgstr "لینک مورد نظر معتبر نمی باشد."
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "http://www is required.<br />"
+msgstr "درج http://www لازم است.<br />"
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "URL is empty"
+msgstr "لینک را وارد کنید"
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "URL existed"
+msgstr "این لینک از قبل درج شده است."
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "List is Full"
+msgstr "لیست تبادل لینک پر است."
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Base Alexa Traffic : "
+msgstr "ترافیک پایه الکسا : "
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Base PageRank : "
+msgstr "پیج رنک پایه : "
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "One of Two above is needed"
+msgstr "یکی از دو شرط بالا ملزوم است."
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Enter your link"
+msgstr "Your Link ..."
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Enter url title"
+msgstr "Your link title"
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Send Link"
+msgstr "ارسال لینک"
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Widget Name : "
+msgstr "نام ابزارک : "
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Site URL : "
+msgstr "آدرس سایت : "
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Base Pagerank : "
+msgstr "پیج رنک پایه : "
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Loading Message : "
+msgstr "پیام بارگذاری : "
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "List Limit. : "
+msgstr "محدودیت لیست : "
+
+#: C:\Documents
+#: and Settings\Windows Xp\Desktop\New Folder/blogomatic.php:12
+msgid "Blogomatic"
+msgstr ""
+
+#~ msgid "BlogRoll"
+#~ msgstr "لیست دوستان"
